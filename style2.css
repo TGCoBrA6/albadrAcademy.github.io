@@ -166,12 +166,12 @@ header nav ul li a:hover::after {
    Main Content
    ===================== */
 main {
-  display: flex;
+/*   display: flex;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: column; */
   min-height: 100vh;
   color: var(--text-color);
-  padding-left: 75px;
+/*   padding-left: 75px; */
   /* position: relative; */
   /* overflow: hidden; */
   background-image: url("images/table-tennis.jpeg");
