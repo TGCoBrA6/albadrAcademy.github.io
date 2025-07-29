@@ -177,8 +177,7 @@ main {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-/*   box-shadow: inset 700px 400px 400px black; */
-  box-shadow: inset 700px 400px 400px var(rgba(203, 190, 233, 0.3));
+  box-shadow: inset 700px 400px 400px black;
 }
 
 main .nameAndSlogan {
