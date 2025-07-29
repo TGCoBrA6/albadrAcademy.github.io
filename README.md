@@ -1,8 +1,1 @@
-# albadrAcademy.github.io
-# albadrAcademy.github.io
-# albadrAcademy.github.io
-# albadrAcademy.github.io
-# albadrAcademy.github.io
-# albadrAcademy.github.io
-# albadrAcademy.github.io
-# albadrAcademy.github.io
+# This is my first website
