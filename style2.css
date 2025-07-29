@@ -166,11 +166,14 @@ header nav ul li a:hover::after {
    Main Content
    ===================== */
 main {
-  padding-top: 55px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   min-height: 100vh;
   color: var(--text-color);
-  position: relative;
-  overflow: hidden;
+  padding-left: 75px;
+  /* position: relative; */
+  /* overflow: hidden; */
   background-image: url("images/table-tennis.jpeg");
   background-position: center;
   background-size: cover;
@@ -963,7 +966,6 @@ footer {
     margin: 10px 20px;
     padding: 15px;
     text-align: center;
-  }
 
   main .nameAndSlogan .name {
     font-size: 2.2em;
