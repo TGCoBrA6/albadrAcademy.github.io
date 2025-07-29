@@ -388,7 +388,7 @@ main .visitUs .links a:hover img {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2vh;
+/*   padding: 2vh; */
   animation: fadeInUp 1s ease-out 0.4s backwards;
 }
 
