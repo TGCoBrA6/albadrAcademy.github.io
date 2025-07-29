@@ -1157,6 +1157,7 @@ footer {
   main {
     padding-top: 65px;
     font-size: 10px;
+     padding-left: 0;
   }
 
   header nav ul {
