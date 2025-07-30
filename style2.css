@@ -531,7 +531,7 @@ main .visitUs .links a:hover img {
     rgba(0, 0, 80, 0.87),
     rgb(0, 0, 80)
   );
-  min-height: 100vh;
+  min-height: 80vh;
   padding: 5vh 10vw;
   display: flex;
   flex-direction: column;
